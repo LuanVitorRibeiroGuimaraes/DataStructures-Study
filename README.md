@@ -6,3 +6,7 @@ HOW TO RUN THIS CODES:
 
 - python 3 or early instaled on your pc
 - a code editor like vscode, pycharm etc
+
+
+RESOURCES:
+course link: https://www.udemy.com/course/data-structures-algorithms-python/?couponCode=ST1MT31025G3
