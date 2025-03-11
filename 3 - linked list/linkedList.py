@@ -36,3 +36,10 @@ class LinkedList:
         self.length += 1 #incrementa o tamanho da lista
         return True #retorna verdadeiro para informar que o valor 
             
+
+my_LinkedList = LinkedList(2)
+
+my_LinkedList.append(3)
+my_LinkedList.append(4)
+
+my_LinkedList.print_list()
