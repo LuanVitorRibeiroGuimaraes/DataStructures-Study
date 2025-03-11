@@ -28,7 +28,7 @@ class LinkedList:
         new_node = Node(value) #criando um novo nó
         if self.tail == None: #se o tail estiver vazio -> não possuem elementos na lista
             self.head = new_node #o head apontará para o novo nó
-            self.tail == new_node #o tail apontará para o novo nó
+            self.tail = new_node #o tail apontará para o novo nó
         else:
             self.tail.next = new_node #próximo valor do tail apontará para o novo nó
             self.tail = new_node #o tail apontará para o novo nó
